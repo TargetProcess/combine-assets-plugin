@@ -1,0 +1,27 @@
+{
+  "name": "combine-assets-plugin",
+  "version": "0.1.0",
+  "description": "Webpack plugin to simple merge or exclude output assets.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TargetProcess/combine-assets-plugin.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Aliaksei Shytkin <shitkin@targetprocess.com>",
+  "licenses": [
+    {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/TargetProcess/combine-assets-plugin/issues"
+  },
+  "homepage": "https://github.com/TargetProcess/combine-assets-plugin#readme",
+  "dependencies": {
+    "webpack-core": "^0.6.5"
+  }
+}
